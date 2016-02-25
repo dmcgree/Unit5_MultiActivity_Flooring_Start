@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unit5_MultiActivity_Flooring_Start</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_display_message">DisplayMessage</string>
+    <string name="flooringNeeded">Flooring Needed:</string>
+
+</resources>
